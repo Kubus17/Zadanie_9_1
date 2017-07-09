@@ -1,5 +1,5 @@
 // scrip,ts.js
-var a, h, getresult, alert;
+var a, h, getresult;
 var triangle1Area = getTriangleArea(10, 15),
     triangle2Area = getTriangleArea(15, 2),
     triangle3Area = getTriangleArea(10, 5);
@@ -10,4 +10,4 @@ function getTriangleArea(a, h) {
     getresult = a * h / 2;
     return getresult;
 }
-console.log(getTriangleArea(10, 6));
+console.log(triangle2Area);
