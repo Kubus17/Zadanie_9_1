@@ -1,4 +1,4 @@
-// scrip,ts.js
+// scripts.js
 var a, h, getresult;
 var triangle1Area = getTriangleArea(10, 15),
     triangle2Area = getTriangleArea(15, 2),
